@@ -1,13 +1,14 @@
-Package: com.saurik.myprogram
-Name: MyProgram
-Version: 1.0.4-1
+Package: com.jakesnake.musixmatchfreepremium
+Version: 7.2.2-1
+Section: Cracks
+Maintainer: Jakesnake
+Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Description: an example of using APT
- Every day people use Cydia, but with the
- instructions embodied in this package,
- people can publish for it as well.
-Homepage: http://www.saurik.com/id/7
-Maintainer: Your Name <you@example.com>
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Section: Tweaks
-Depiction: https://supermamon.github.io/Repo/depictions/MusixmatchFreePremium
+Filename: ./debs/com.jakesnake.musixmatchfreepremium_7.2.2-14+debug_iphoneos-arm.deb
+Size: 4.17
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Free Musixmatch Premium with Party mode
+Name: Musixmatch Free Premium
+Author: Jakesnake
+Depiction: https://jakesnake523.github.io/Repo/depictions/MusixmatchFreePremium
+SileoDepiction: https://jakesnake523.github.io/Repo/depictions/MusixmatchFreePremium/MusixMatchFreePremium
