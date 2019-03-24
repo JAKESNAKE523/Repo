@@ -6,7 +6,7 @@ Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.jakesnake.musixmatchfreepremium_7.2.2-14+debug_iphoneos-arm.deb
 Size: 4274
-MD5sum: CCE99AE175C8578A9026D001AD17D19B
+MD5sum: cce99ae175c8578a9026d001ad17d19b
 Description: Free Musixmatch Premium with Party mode
 Name: Musixmatch Free Premium
 Author: Jakesnake
